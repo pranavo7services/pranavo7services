@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on O7 Solutions
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m Mobile Application Developer(Android/iOS)
 - 📫 How to reach me: o7services021@gmail.com
 
 
